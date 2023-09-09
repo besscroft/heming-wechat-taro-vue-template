@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "heming-wechat-app",
+	"description": "鹤鸣微信小程序模板",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
